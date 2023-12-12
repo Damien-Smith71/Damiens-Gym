@@ -1,0 +1,49 @@
+body{
+    background-color: #161A30;
+}
+#Title{
+    background-color: #b6bbc4;
+    color: white;
+}
+.title-image{
+height: 250px;
+width: 350px;
+
+}
+h1{
+    text-align: center;
+    padding-top: 15%;
+}
+.row{
+    padding-top: 10%;
+}
+#payments{
+    background-color: #b6bbc4;
+}
+#reviews{
+    background-color: #31304d;
+}
+.infoImage{
+    height: 600px;
+    width: 600px;
+
+
+    
+}
+#reviews{
+    background-color: #161A30;
+}
+#info{
+    background-color: #161A30;
+}
+.reviewers{
+    color: white;
+}
+.row{
+    text-align: center;
+  background-color: #31304d;
+ 
+}
+.footer{
+    color: white;
+}
